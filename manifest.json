@@ -1,5 +1,5 @@
 {
-  "name": "Kokiri Forest",
+  "name": "kokiri-forest",
   "description": "WebXR Kokiri forest",
   "xr_type": "gltf@0.0.1",
   "start_url": "scene.glb"
